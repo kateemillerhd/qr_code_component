@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&display=swap');
+
+body {
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    height: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
+   
+.text-container {
+    font-family: "Outfit", sans-serif;
+}
+
+
